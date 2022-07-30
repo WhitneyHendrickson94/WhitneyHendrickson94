@@ -5,7 +5,7 @@
 
 👀 I’m interested in learning about front end development tools and technologies, as well as software/websites to aid others in communication (I'm also a speech-language pathologist!).
 
-🌱 I’m currently learning about JavaScript foundations, CSS, and HTML. 
+🌱 I’m currently learning about JavaScript foundations, CSS, and HTML. Currently, I am learning all things data types, variables, conditions and loops. 
 
 💞️ I’m looking to collaborate on projects that focus on all of the foundational concepts as I am just now starting my front end development journey!
 
